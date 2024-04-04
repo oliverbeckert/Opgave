@@ -1,0 +1,14 @@
+C:\Users\45418\source\repos\filmopgave\filmopgave\bin\Debug\net8.0\filmopgave.exe
+C:\Users\45418\source\repos\filmopgave\filmopgave\bin\Debug\net8.0\filmopgave.deps.json
+C:\Users\45418\source\repos\filmopgave\filmopgave\bin\Debug\net8.0\filmopgave.runtimeconfig.json
+C:\Users\45418\source\repos\filmopgave\filmopgave\bin\Debug\net8.0\filmopgave.dll
+C:\Users\45418\source\repos\filmopgave\filmopgave\bin\Debug\net8.0\filmopgave.pdb
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\filmopgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\filmopgave.AssemblyInfoInputs.cache
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\filmopgave.AssemblyInfo.cs
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\filmopgave.csproj.CoreCompileInputs.cache
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\filmopgave.dll
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\refint\filmopgave.dll
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\filmopgave.pdb
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\filmopgave.genruntimeconfig.cache
+C:\Users\45418\source\repos\filmopgave\filmopgave\obj\Debug\net8.0\ref\filmopgave.dll
